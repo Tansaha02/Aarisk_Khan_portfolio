@@ -119,3 +119,12 @@ transform:translateY(0);
 background:#111;
 color:white;
 }
+
+.logo{
+    color: #111;
+    font-weight: 600;
+}
+
+.dark .logo{
+    color: #111;
+}
