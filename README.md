@@ -53,7 +53,7 @@ This application brings everything into one organized system. Market organizers 
 
 The full Entity-Relationship Diagram is included in this repository:
 
-![Entity Relationship Diagram](./erd.png)
+![Entity Relationship Diagram](./Milestone_2_ERD.jpg)
 
 
 ### Entities
