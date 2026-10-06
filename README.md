@@ -54,9 +54,8 @@ This application brings everything into one organized system. Market organizers 
 
 The full Entity-Relationship Diagram is included in this repository:
 
-![Entity Relationship Diagram](./erd.png)
 
-*(If the image doesn't show up, make sure the exported ERD file is saved in the repo root as `erd.png`, or update the path above to match the file name.)*
+
 
 ### Entities
 
@@ -96,8 +95,8 @@ The full Entity-Relationship Diagram is included in this repository:
 > Fill this in with whatever your team is using, for example:
 
 - **Database:** MySQL / PostgreSQL
-- **Backend:** _(your choice)_
-- **Frontend:** _(your choice)_
+- **Backend:** Java
+- **Frontend:** React
 
 ---
 
