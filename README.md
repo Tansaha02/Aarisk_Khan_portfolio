@@ -1,4 +1,3 @@
-Aarish Khan
 # Farmers Market Management System
 
 A database-driven application for managing local markets, the vendors who sell at them, the products they offer, and the orders customers place.
@@ -54,7 +53,7 @@ This application brings everything into one organized system. Market organizers 
 
 The full Entity-Relationship Diagram is included in this repository:
 
-
+![Entity Relationship Diagram](./erd.png)
 
 
 ### Entities
